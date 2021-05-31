@@ -1,12 +1,12 @@
 <p align="center"> 
-  <img src="images/logo.png" alt="Chatbot Logo" width="150px" height="150px">
+  <img src="images/chatbot_logo.png" alt="Chatbot Logo" width="80px" height="80px">
 </p>
 <h1 align="center"> University Chatbot </h1>
-
+<h3 align="center"> An intelligent assistant to answer course-related questions </h3>
 </br>
 
 <p align="center"> 
-  <img src="images/chatbot.gif" alt="Sample signal" width="45%" height="45%">
+  <img src="images/chatbot.gif" alt="Sample signal" width="40%" height="40%">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -139,14 +139,14 @@ to store the frequency information of a topic, we define a new class named syn:F
 class shows the frequency of a topic in an event, i.e., course, lecture, and lab.
 
 <p align="center">
-  <img src="images/vocabulary.png" alt="Vocabulary" display="inline-block" width="80%" height="70%">
+  <img src="images/vocabulary.png" alt="Vocabulary" display="inline-block" width="90%" height="80%">
 </p>
 
 Our implementation for the above classes and their properties will be discussed in the next
 sections.
 
 <p align="center">
-  <img src="images/class.png" alt="Class" display="inline-block" width="80%" height="70%">
+  <img src="images/class.png" alt="Class" display="inline-block" width="90%" height="80%">
 </p>
 
 
