@@ -1,12 +1,12 @@
 <p align="center"> 
-  <img src="images/logo.png" alt="Chatbot Logo" width="110px" height="110px">
+  <img src="images/logo.png" alt="Chatbot Logo" width="150px" height="150px">
 </p>
 <h1 align="center"> University Chatbot </h1>
 
 </br>
 
 <p align="center"> 
-  <img src="images/chatbot.gif" alt="Sample signal" width="70%" height="70%">
+  <img src="images/chatbot.gif" alt="Sample signal" width="45%" height="45%">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -26,7 +26,6 @@
   </ol>
 </details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
@@ -140,14 +139,14 @@ to store the frequency information of a topic, we define a new class named syn:F
 class shows the frequency of a topic in an event, i.e., course, lecture, and lab.
 
 <p align="center">
-  <img src="images/vocabulary.png" alt="Vocabulary" display="inline-block" width="70%" height="60%">
+  <img src="images/vocabulary.png" alt="Vocabulary" display="inline-block" width="80%" height="70%">
 </p>
 
 Our implementation for the above classes and their properties will be discussed in the next
 sections.
 
 <p align="center">
-  <img src="images/class.png" alt="Class" display="inline-block" width="70%" height="60%">
+  <img src="images/class.png" alt="Class" display="inline-block" width="80%" height="70%">
 </p>
 
 
