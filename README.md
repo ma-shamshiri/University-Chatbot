@@ -1,12 +1,12 @@
 <p align="center"> 
-  <img src="images/chatbot_logo.png" alt="Chatbot Logo" width="80px" height="80px">
+  <img src="images/chatbot_logo.png" alt="chatbot_logo" width="80px" height="80px">
 </p>
 <h1 align="center"> University Chatbot </h1>
 <h3 align="center"> An intelligent assistant to answer course-related questions </h3>
 </br>
 
 <p align="center"> 
-  <img src="images/chatbot.gif" alt="Sample signal" width="40%" height="40%">
+  <img src="images/chatbot.gif" alt="chatbot_gif" width="40%" height="40%">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -31,14 +31,14 @@
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
 <p align="justify"> 
-  The overall goal of this project is to build Studybot, an intelligent agent that can answer university course-related questions using a knowledge graph and natural language processing. To be able to answer questions, Studybot needs knowledge about courses, lectures, and their content. Thus, the first step in this part of the project is the construction of a knowledge graph, built using standard W3C technologies, in particular RDF and RDFS.
+  The overall goal of this project is to build Studybot, an intelligent agent that can assist students in the course selection process and also answer university course-related questions using a knowledge graph and natural language processing. To be able to answer questions, Studybot needs knowledge about courses, lectures, and their content. Thus, the first step in this part of the project is the construction of a knowledge graph, built using standard W3C technologies, in particular RDF and RDFS.
 </p>
 
-<p align="center">
-  <img src="images/WISDM Activities.png" alt="Table1: 18 Activities" width="70%" height="70%">        
-  <!--figcaption>Caption goes here</figcaption-->
-</p>
-
+<p> The knowledge graph is modeled to represent such information </p>
+<!-- <img src="images/uni_info.png" alt="uni_info"> -->
+<!-- <img src="images/course_info.png" alt="uni_info"> -->
+<!-- <img src="images/lec_info.png" alt="uni_info"> -->
+<!-- <img src="images/lab_info.png" alt="uni_info"> -->
 
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
@@ -90,7 +90,7 @@ code
 |   
 |-- queries
 |   |                        
-|   |-- competency_questions					<--- SPARQL queries
+|   |-- competency_questions					          <--- SPARQL queries
 |       |-- q1.txt
 |       |-- q1-out.csv
 |       |-- ...         
@@ -125,7 +125,7 @@ code
 <!-- VOCABULARY -->
 <h2 id="vocabulary"> :floppy_disk: Vocabulary</h2>
 <p> 
-  Fig. 1 presents the vocabulary we designed for the agent. A namespace called syn was defined.
+  Fig. 1 presents the vocabulary we designed for the agent. A namespace called syn was defined.
 <p align="center">prefix syn: http://focu.io/syntax# </p>
 
 Inside this namespace, we declared course-related classes and their properties, i.e., University,
@@ -150,7 +150,7 @@ sections.
 </p>
 
 
-<!--<!-- ROADMAP -->-->
+<!-- ROADMAP -->
 <!--<h2 id="roadmap"> :dart: Roadmap</h2>-->
 
 <p align="justify"> 
@@ -203,7 +203,11 @@ In addition to the processed data in Section 3.1, we used Beautiful Soup5 to rea
 
 <ul>
   <li>
-    <p>Matthew B. Kennel, Reggie Brown, and Henry D. I. Abarbanel. Determining embedding dimension for phase-space reconstruction using a geometrical construction. Phys. Rev. A, 45:3403–3411, Mar 1992.
+    <p>Tom Bocklisch, Joey Faulker, Nick Pawlowski, and Alan Nichol. Rasa: Open source languageunderstanding and dialogue management.arXiv preprint <a href="https://arxiv.org/abs/1712.05181">arXiv:1712.05181</a>, 2017.
+    </p>
+  </li>
+  <li>
+    <p>Sharma, R. K., & Joshi, M. (2020). An analytical study and review of open source chatbot framework, rasa. International Journal of Engineering Research, 9(6). <a href="https://www.ijert.org/an-analytical-study-and-review-of-open-source-chatbot-framework-rasa">DOI: 10.17577/IJERTV9IS060723</a>, 2017.
     </p>
   </li>
 </ul>
