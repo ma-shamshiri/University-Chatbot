@@ -36,9 +36,9 @@
 
 <p> The knowledge graph is modeled to represent such information </p>
 <img src="images/uni_info.png" alt="uni_info">
-<!-- <img src="images/course_info.png" alt="uni_info"> -->
-<!-- <img src="images/lec_info.png" alt="uni_info"> -->
-<!-- <img src="images/lab_info.png" alt="uni_info"> -->
+<img src="images/course_info.png" alt="uni_info">
+<img src="images/lec_info.png" alt="uni_info">
+<img src="images/lab_info.png" alt="uni_info">
 
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
