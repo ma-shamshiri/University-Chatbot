@@ -35,7 +35,7 @@
 </p>
 
 <p> The knowledge graph is modeled to represent such information </p>
-<img src="images/material.png" alt="material_info" width="70%" height="70%">
+<img src="images/material.png" alt="material_info" width="90%" height="90%">
 <!-- <img src="images/uni_info.png" alt="uni_info"> -->
 <!-- <img src="images/course_info.png" alt="uni_info"> -->
 <!-- <img src="images/lec_info.png" alt="uni_info"> -->
