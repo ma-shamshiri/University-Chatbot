@@ -35,7 +35,7 @@
 </p>
 
 <p> The knowledge graph is modeled to represent such information </p>
-<!-- <img src="images/uni_info.png" alt="uni_info"> -->
+<img src="images/uni_info.png" alt="uni_info">
 <!-- <img src="images/course_info.png" alt="uni_info"> -->
 <!-- <img src="images/lec_info.png" alt="uni_info"> -->
 <!-- <img src="images/lab_info.png" alt="uni_info"> -->
@@ -90,7 +90,7 @@ code
 |   
 |-- queries
 |   |                        
-|   |-- competency_questions					          <--- SPARQL queries
+|   |-- competency_questions                    <--- SPARQL queries
 |       |-- q1.txt
 |       |-- q1-out.csv
 |       |-- ...         
