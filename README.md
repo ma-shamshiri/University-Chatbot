@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="images/chatbot_logo.png" alt="chatbot_logo" width="80px" height="80px">
 </p>
-<h1 align="center"> University Chatbot </h1>
+<h1 align="center"> Course Advisor Agent </h1>
 <h3 align="center"> An intelligent assistant to answer course-related questions </h3>
 </br>
 
